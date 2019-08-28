@@ -1,4 +1,7 @@
-﻿using System;
+//great code percentage taken from https://github.com/Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started﻿
+
+
+using System;
 using System.Threading.Tasks;
 using System.Linq;
 using System.Configuration;
